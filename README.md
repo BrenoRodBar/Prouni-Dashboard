@@ -1,5 +1,5 @@
 # Prouni-Dashboard
-### Analise exploratória dos dados do Prouni entre 2005 e 2019
+### Analise exploratória das informaçôes do programa Prouni entre 2005 e 2019, com o intuito de encontrar coorelaçoes e insights dos dados disponibilizados.
 
 
 Quantidade de bolsas por ano 
